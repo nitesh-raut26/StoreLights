@@ -1,0 +1,75 @@
+body{margin:0px; padding:0px; background:#fff;}
+
+.main{width:1000px; clear:both; background:#FFFFFF;}
+
+.home-bg{background:url(../images/hF6Rp7rDMNVM.jpg) top left repeat-x;}
+.top{background:url(../images/U3DvvtOrvFSa.jpg) top left repeat-x; clear:both;}
+
+.left{width:557px; float:left;}
+.right{width:343px; float:right;}
+
+.left1{width:642px; float:left;}
+.right1{width:244px; float:right; padding-right:5px;}
+
+
+.right-inner{width:642px; float:right;}
+.left-inner{width:244px; float:left; padding-left:5px;}
+
+.padding-L{padding-right:70px; text-align:right;}
+.padding-R{padding-left:74px; text-align:left;}
+
+.top-link-bg{background:url(../images/t5yMLggThPu3.jpg) top left;}
+
+
+#navlist{padding-left: 0; margin-left: 0; margin-top:0; width: 235px; text-align:left;}
+#navlist li{list-style: none; margin: 0; background:url(../images/v1iHxeLnuUKJ.jpg) left bottom no-repeat; font-family:verdana; font-size:11px; color:#3520ab; text-decoration:none; padding:4px; padding-left:15px;}
+#navlist li a{color:#3520ab; text-decoration:none;}
+#navlist li a:hover{color:#3520ab; text-decoration:overline;}
+
+
+.txt{font-family:verdana; font-size:11px; line-height:18px; color:#333333; text-decoration:none; text-align:justify; padding-left:8px;}
+
+.txt-inner{font-family:verdana; font-size:11px; line-height:18px; color:#333333; text-decoration:none; text-align:justify; padding-right:5px;}
+.txt-inner h1{font-family:verdana; font-size:15px; color:#2e6500; text-decoration:none; text-transform:uppercase; border-bottom:2px dotted #2e6500; padding:2px 5px 5px 0px; margin:0px;}
+.txt-inner table{text-align:left;}
+.txt-inner table img{border:3px groove #016201; margin-right:7px;}
+
+.more{font-family:verdana; font-size:11px; color:#25138e; text-decoration:none; text-align:right;}
+.more a{fcolor:#25138e; text-decoration:none;}
+.more a:hover{fcolor:#25138e; text-decoration:underline;}
+
+
+.form1{width:235px; border:1px solid #25138e; font-family:verdana; font-size:10px; color:#636363; text-align:left;}
+.form1 form{margin:0px; padding:0px;}
+.form1 form input, textarea{font-size:11px; font-family:verdana; color:#636363; text-align:left; border:1px solid #7f9db9;}
+.form1 strong{color:#FF0000;}
+
+
+#num{font-family:verdana; font-size:12px; color:#2e6500; text-align:right; text-decoration:none; padding-right:10px; padding-bottom:15px;}
+#num a{color:#2e6500; text-decoration:none; font-weight:bold;}
+#num a:hover{color:#FF0000; text-decoration:underline;}
+
+#num_bot{font-family:verdana; font-size:12px; color:#2e6500; text-align:right; text-decoration:none; padding-top:5px; border-top:1px dashed #333333; padding-right:10px;}
+#num_bot a{color:#2e6500; text-decoration:none; font-weight:bold;}
+#num_bot a:hover{color:#FF0000; text-decoration:underline;}
+
+.num_ac{font-size:18px; text-decoration:none; color:#FF0000;}
+
+
+
+
+
+
+.footer{font-family:verdana; font-size:11px; color:#FFFFFF; text-decoration:none; font-weight:bold; text-align:center; background:url(../images/pAPqJjgv943T.jpg) top left repeat-x; padding-top:15px; padding-bottom:15px;}
+.footer a{color:#FFFFFF; text-decoration:none;}
+.footer a:hover{color:#FFFFFF; text-decoration:underline;}
+
+.footer-inner{padding-top:10px; clear:both; padding-bottom:50px;}
+
+.site-link{font-family:tahoma; font-size:11px; color:#16121a; text-decoration:none; text-align:left;  width:270px; float:left; padding-left:5px;}
+.site-link a{color:#2f6c01; text-decoration:none;}
+.site-link a:hover{color:#2f6c01; text-decoration:underline;}
+
+.bottom-link{font-family:tahoma; font-size:11px; color:#16121a; text-decoration:none; text-align:right; width:420px; float:right; padding-right:5px;}
+.bottom-link a{color:#2f6c01; text-decoration:none;}
+.bottom-link a:hover{color:#2f6c01; text-decoration:underline;}
